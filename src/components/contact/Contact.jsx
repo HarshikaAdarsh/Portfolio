@@ -45,11 +45,11 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
-              contact@harshikaadarsh
+              contact@harshikaadarsh04
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              Lucknow uttarpradesh
+              Lucknow uttarpradesh india
             </div>
           </div>
         </div>
