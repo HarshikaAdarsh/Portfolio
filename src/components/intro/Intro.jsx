@@ -18,9 +18,7 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            I design and develop services for customers of all sizes,
-            specializing in creating stylish, modern websites, web services and
-            online stores.
+          please ignore this portfolio, this is my old portfolio. click below link for my new portfolio. 
           </p>
         </div>
         <svg
