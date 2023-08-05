@@ -20,10 +20,7 @@ const About = () => {
           I design and develop services for customers of all sizes, specializing in creating stylish, modern websites, web services and online stores.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+         fdhbfjcfbiudwfbwihiwe
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
