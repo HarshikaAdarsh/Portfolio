@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { useContext } from "react";
 import About from "./components/about/About";
 import Contact from "./components/contact/Contact";
@@ -28,6 +29,8 @@ const App = () => {
 
 export default App;
 =======
+=======
+>>>>>>> parent of 9a4abd81 (delete everything)
 import { BrowserRouter } from "react-router-dom";
 
 import { About, Contact, Experience, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
@@ -53,4 +56,7 @@ const App = () => {
 }
 
 export default App;
+<<<<<<< HEAD
 >>>>>>> parent of 7734142e (revert commit)
+=======
+>>>>>>> parent of 9a4abd81 (delete everything)

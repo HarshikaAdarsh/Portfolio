@@ -19,7 +19,11 @@ const Intro = () => {
           </div>
           <p className="i-desc">
             I design and develop services for customers of all sizes,
+<<<<<<< HEAD
             specializing in,interactive creating stylish, modern websites, web services and
+=======
+            specializing in creating stylish, modern websites, web services and
+>>>>>>> parent of 9a4abd81 (delete everything)
             online stores.
           </p>
         </div>
@@ -88,4 +92,8 @@ const Intro = () => {
   );
 };
 
+<<<<<<< HEAD
 export default Intro;
+=======
+export default Intro;
+>>>>>>> parent of 9a4abd81 (delete everything)
