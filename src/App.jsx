@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useContext } from "react";
 import About from "./components/about/About";
 import Contact from "./components/contact/Contact";
@@ -26,3 +27,30 @@ const App = () => {
 };
 
 export default App;
+=======
+import { BrowserRouter } from "react-router-dom";
+
+import { About, Contact, Experience, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
+const App = () => {
+  return (
+    <BrowserRouter>
+      <div className='relative z-0 bg-primary'>
+        <div className='bg-hero-pattern bg-cover bg-no-repeat bg-center'>
+          <Navbar />
+          <Hero />
+        </div>
+        <About />
+        <Experience />
+        <Tech />
+        <Works />
+        <div className='relative z-0'>
+          <Contact />
+          <StarsCanvas />
+        </div>
+      </div>
+    </BrowserRouter>
+  );
+}
+
+export default App;
+>>>>>>> parent of 7734142e (revert commit)
