@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -32,3 +33,6 @@ dist-ssr
 >>>>>>> parent of 7734142e (revert commit)
 =======
 >>>>>>> parent of 9a4abd81 (delete everything)
+=======
+node_modules
+>>>>>>> parent of 20a08f3c (now)

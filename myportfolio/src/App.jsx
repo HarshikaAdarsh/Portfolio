@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 20a08f3c (now)
 import { useContext } from "react";
 import About from "./components/about/About";
 import Contact from "./components/contact/Contact";
@@ -27,6 +30,7 @@ const App = () => {
   );
 };
 
+<<<<<<< HEAD
 export default App;
 =======
 =======
@@ -60,3 +64,6 @@ export default App;
 >>>>>>> parent of 7734142e (revert commit)
 =======
 >>>>>>> parent of 9a4abd81 (delete everything)
+=======
+export default App;
+>>>>>>> parent of 20a08f3c (now)
