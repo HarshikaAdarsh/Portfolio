@@ -20,9 +20,12 @@ const Intro = () => {
           <p className="i-desc">
           please ignore this portfolio, this is my old portfolio. click below link for my new portfolio. 
           </p>
+          <a href="https://hereismyportfolioo.netlify.app/" target="_blank" rel="nopener noreferrer">
           <button className="secondary-button">
             Portfolio 
           </button>
+           </a>
+          
         </div>
        
         <svg
