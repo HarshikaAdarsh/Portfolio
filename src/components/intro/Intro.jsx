@@ -1,6 +1,7 @@
 import "./intro.css";
 import Me from "../../img/me.png";
 
+
 const Intro = () => {
   return (
     <div className="i">
@@ -85,6 +86,7 @@ const Intro = () => {
           </g>
         </svg>
       </div>
+    
       <div className="i-right">
         <div className="i-bg"></div>
         <img src={Me} alt="" className="i-img" />
