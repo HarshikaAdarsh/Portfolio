@@ -20,7 +20,11 @@ const Intro = () => {
           <p className="i-desc">
           please ignore this portfolio, this is my old portfolio. click below link for my new portfolio. 
           </p>
+          <button className="secondary-button">
+            Portfolio 
+          </button>
         </div>
+       
         <svg
           width="75"
           height="75"
